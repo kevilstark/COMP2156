@@ -1,12 +1,12 @@
 ### Description
 Provide a maximum of 3 sentence descriptions of what the implementation was.
 
-### Screenshots (Optional)
+### Screenshots [Optional]
 
-### Details (Optional)
+### Details [Optional]
 Additional implementation details if you want the reviewer to be aware of before doing code review.
 
-### Testing instructions (Optional)
+### Testing instructions [Optional]
 Instructions to testing this fix.
 
 ### Checklist before merge
